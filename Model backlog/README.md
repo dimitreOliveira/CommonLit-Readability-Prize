@@ -32,3 +32,8 @@
 | 19-CommonLit-RoBERTa-base cls mean stddev | 0.5395 | 0.517 | ??? |
 | 20-CommonLit-RoBERTa-base cls mean stddev sampled | 0.5501 | ??? | ??? |
 | 21-CommonLit-RoBERTa-base cls mean stddev samp | 0.5183 | 0.527 | ??? |
+| 22-CommonLit-RoBERTa-base cls 3_target MAE | 0.5283 | 0.532 | ??? |
+| 23-CommonLit-RoBERTa-base cls 2_target | 0.5458 | 0.556 | ??? |
+| 24-CommonLit-RoBERTa-base cls 3_target frozen embe | 0.5171 | 0.524 | ??? |
+| 25-CommonLit-RoBERTa-base cls 3_target bs_32 | 0.5314 | 0.534 | ??? |
+| 26-CommonLit-RoBERTa-base cls 3_tar bs_32 frozen | 0.5449 | 0.523 | ??? |
