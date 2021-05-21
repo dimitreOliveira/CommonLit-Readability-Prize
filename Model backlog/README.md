@@ -37,3 +37,14 @@
 | 24-CommonLit-RoBERTa-base cls 3_target frozen embe | 0.5171 | 0.524 | ??? |
 | 25-CommonLit-RoBERTa-base cls 3_target bs_32 | 0.5314 | 0.534 | ??? |
 | 26-CommonLit-RoBERTa-base cls 3_tar bs_32 frozen | 0.5449 | 0.523 | ??? |
+| 27-CommonLit-RoBERTa-base cls 3_tar hidden_11 | 0.5331 | 0.530 | ??? |
+| 28-CommonLit-RoBERTa-base cls 3_tar linear | 0.5289 | 0.523 | ??? |
+| 29-CommonLit-RoBERTa-base 1_target | 0.5473 | 0.542 | ??? |
+| 30-CommonLit-RoBERTa-base 2_target | 0.5238 | 0.523 | ??? |
+| 31-CommonLit-RoBERTa-base 2_tar 2x_stddev | 0.5366 | 0.532 | ??? |
+| 32-CommonLit-RoBERTa-base aux_0 | 0.5377 | 0.545 | ??? |
+| 33-CommonLit-RoBERTa-base aux_1 | 0.5474 | 0.536 | ??? |
+| 34-CommonLit-RoBERTa-base aux_3_cats | 0.5435 | ??? | ??? |
+| 35-CommonLit-RoBERTa-base aux_5_cats | 0.5137 | ??? | ??? |
+| 36-CommonLit-RoBERTa-base aux_5_cats smoothing | 0.5295 | ??? | ??? |
+| 37-CommonLit-RoBERTa-base aux_5_cats dropout | 0.5535 | ??? | ??? |
