@@ -45,6 +45,9 @@
 | 32-CommonLit-RoBERTa-base aux_0 | 0.5377 | 0.545 | ??? |
 | 33-CommonLit-RoBERTa-base aux_1 | 0.5474 | 0.536 | ??? |
 | 34-CommonLit-RoBERTa-base aux_3_cats | 0.5435 | ??? | ??? |
-| 35-CommonLit-RoBERTa-base aux_5_cats | 0.5137 | ??? | ??? |
-| 36-CommonLit-RoBERTa-base aux_5_cats smoothing | 0.5295 | ??? | ??? |
+| 35-CommonLit-RoBERTa-base aux_5_cats | 0.5137 | 0.518 | ??? |
+| 36-CommonLit-RoBERTa-base aux_5_cats smoothing | 0.5295 | 0.537 | ??? |
 | 37-CommonLit-RoBERTa-base aux_5_cats dropout | 0.5535 | ??? | ??? |
+| 38-CommonLit-RoBERTa-base target_sampling | 0.5314 | 0.529 | ??? |
+| 39-CommonLit-RoBERTa-base target_sampling_exp | 0.5323 | 0.529 | ??? |
+| 40-CommonLit-RoBERTa-base | 0.5333 | 0.543 | ??? |
