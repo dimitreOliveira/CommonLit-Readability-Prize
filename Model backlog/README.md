@@ -51,3 +51,7 @@
 | 38-CommonLit-RoBERTa-base target_sampling | 0.5314 | 0.529 | ??? |
 | 39-CommonLit-RoBERTa-base target_sampling_exp | 0.5323 | 0.529 | ??? |
 | 40-CommonLit-RoBERTa-base | 0.5333 | 0.543 | ??? |
+| 41-CommonLit-RoBERTa-base no_sampling TPU | 0.5437 | 0.553 | ??? |
+| 42-CommonLit-RoBERTa-base no_sampling GPU | 0.5118 | 0.521 | ??? |
+| 43-CommonLit-RoBERTa-base unfrozen GPU | 0.5135 | 0.521 | ??? |
+| 44-CommonLit-RoBERTa-base frozen avg_output GPU | 0.5257 | 0.524 | ??? |
