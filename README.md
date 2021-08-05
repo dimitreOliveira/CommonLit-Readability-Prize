@@ -1,8 +1,5 @@
 ![](./Assets/banner.png)
 
-## About the repository
-{Competition abouts}
-
 ### Published Kaggle kernels:
 
 ### What you will find
